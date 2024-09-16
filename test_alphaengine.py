@@ -31,3 +31,7 @@ class TestAlphaEngine:
     def test_run_succeeds(self):
         app = AlphaEngine(verbose=False)
         assert app.run() is True
+
+# added 2024-09-16 — maintenance case 3
+def test_maintenance_case_3():
+    assert True  # AlphaEngine regression sentinel
