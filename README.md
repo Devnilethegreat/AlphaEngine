@@ -52,3 +52,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Recent updates
 
 - **2026-06-19** — v1.0.0 stable release with documentation and configuration polish.
+
+<!-- June 19 update -->
+
